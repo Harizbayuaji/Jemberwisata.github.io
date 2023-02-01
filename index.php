@@ -100,7 +100,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 footer-copyright">
-                    <p style="color: white;">Made With Love &copy; By <a href="#" target="_blank"
+                    <p style="color: white;">Made With Love &copy; By <a href="https://www.instagram.com/aditya_c.a.n/" target="_blank"
                             style="color: white;">Aditya~</a></p>
                 </div>
             </div>
